@@ -18,26 +18,28 @@
 
 ### 👨‍💻 Sobre mí
 
-Desarrollador **Full-Stack** con **3 años de experiencia** construyendo y manteniendo sistemas empresariales en producción en equipos remotos. He participado en el desarrollo de un **ERP multi-tenant** (con 100+ empresas clientes en LATAM y 1.374 tablas en MySQL) y de una **plataforma de gestión de solicitudes**.
+Desarrollador **Full-Stack** con **3 años de experiencia** colaborando en el desarrollo y mantenimiento de sistemas empresariales en producción dentro de equipos remotos. He participado activamente en un **ERP multi-tenant** (con 100+ empresas clientes en LATAM y 1.374 tablas en MySQL) y en una **plataforma de gestión de solicitudes**:
 
-- 🚀 **+2.000 commits en producción** en monorepos empresariales con usuarios reales.
-- 🏗️ **Arquitectura robusta:** Implementación de **Domain-Driven Design (DDD)** y **Arquitectura Hexagonal** (puertos y adaptadores), desacoplamiento de capas y comunicación asíncrona entre sistemas con patrón *Transactional Outbox* / eventos.
+- 🚀 **+2.000 commits propios en producción** en monorepos empresariales con usuarios reales.
+- 🏗️ **Arquitectura robusta:** Implementación de casos de uso bajo **Domain-Driven Design (DDD)** y **Arquitectura Hexagonal** (puertos y adaptadores), desacoplamiento de capas y comunicación asíncrona entre sistemas con patrón *Transactional Outbox* / eventos.
 - 🧪 **Cultura de calidad y testing:** Más de **200 archivos de prueba propios** entre pruebas de aceptación con **Behat (ATDD/BDD)**, unitarias y de integración con **PHPUnit**, y flujos críticos end-to-end con **Playwright** (Page Object Model).
-- ⚡ **Automatización y aceleración con IA:** Autor del estándar de generación de pruebas asistidas por agentes del equipo y automatizaciones del ciclo de desarrollo (control de calidad, refactorizaciones y MCP).
+- ⚡ **Automatización y aceleración con IA:** Autor del estándar de pruebas asistidas por agentes del equipo y automatizaciones del ciclo de desarrollo (control de calidad, refactorizaciones y MCP).
 
 ---
 
-### 📈 Métricas de Impacto en Producción
+### 📈 Contribución y Escala en Producción
+
+He formado parte del equipo de desarrollo en sistemas de alta escala, aportando directamente en módulos clave, arquitectura y calidad:
 
 <div align="center">
 
-| 💼 Experiencia | 🚀 Producción | 🏢 Escala |
+| 🚀 Mis Aportes | 🧪 Pruebas Propias | 🏢 Escala del ERP |
 | :---: | :---: | :---: |
-| **3 Años**<br/><sub>Sistemas en producción</sub> | **+2.000 Commits**<br/><sub>Monorepos empresariales</sub> | **100+ Empresas**<br/><sub>Clientes en LATAM</sub> |
+| **+2.000 Commits**<br/><sub>Aportados en producción</sub> | **+200 Suites**<br/><sub>Pruebas escritas por mí</sub> | **100+ Empresas**<br/><sub>Clientes que usan el sistema</sub> |
 
-| 🗄️ Base de Datos | 🧪 Calidad & Testing | ⚙️ Arquitectura |
+| 💼 Experiencia | ⚙️ Mi Enfoque | 🗄️ Entorno de Datos |
 | :---: | :---: | :---: |
-| **1.374 Tablas**<br/><sub>Modelo relacional MySQL</sub> | **+200 Suites**<br/><sub>Behat, PHPUnit, Playwright</sub> | **DDD / Hexagonal**<br/><sub>Eventos & Outbox</sub> |
+| **3 Años**<br/><sub>Colaborando en equipo remoto</sub> | **DDD / Hexagonal**<br/><sub>Casos de uso y eventos</sub> | **1.374 Tablas**<br/><sub>Base de datos donde operé</sub> |
 
 </div>
 
