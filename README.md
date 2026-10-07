@@ -1,16 +1,5 @@
 <div align="center">
-  <table border="0" style="border: none; background: transparent;">
-    <tr style="border: none; background: transparent;">
-      <td width="90" align="center" valign="middle" style="border: none; background: transparent;">
-        <img src="https://raw.githubusercontent.com/Rafarars/Rafarars/main/assets/avatar.png" width="80" height="80" alt="Rafael Rodríguez Sosa" />
-      </td>
-      <td valign="middle" align="left" style="border: none; background: transparent;">
-        <h1 style="margin: 0; padding: 0; border: none; font-size: 26px;">Rafael Rodríguez Sosa</h1>
-        <p style="margin: 2px 0 0 0; font-size: 15px; color: #8a8f98;"><strong>Desarrollador Web Full-Stack</strong> · PHP/Symfony · Laravel · Vue.js · React · TypeScript</p>
-        <p style="margin: 4px 0 0 0; font-size: 13px;">🟢 <em>Disponible para trabajo remoto · LATAM / España</em></p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1011,60:141516,100:5e6ad2&height=220&section=header&text=Rafael%20Rodr%C3%ADguez%20Sosa&fontSize=42&fontColor=f7f8f8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=20" width="100%" alt="Rafael Rodríguez Sosa - Full Stack Developer" />
 </div>
 
 <div align="center">
@@ -18,6 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-rodriguez-sosa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafa.sosa20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafarars)
+
+<br/>
+
+`🟢 Disponible para trabajo remoto · LATAM / España`
 
 </div>
 
@@ -31,6 +24,22 @@ Desarrollador **Full-Stack** con **3 años de experiencia** construyendo y mante
 - 🏗️ **Arquitectura robusta:** Implementación de **Domain-Driven Design (DDD)** y **Arquitectura Hexagonal** (puertos y adaptadores), desacoplamiento de capas y comunicación asíncrona entre sistemas con patrón *Transactional Outbox* / eventos.
 - 🧪 **Cultura de calidad y testing:** Más de **200 archivos de prueba propios** entre pruebas de aceptación con **Behat (ATDD/BDD)**, unitarias y de integración con **PHPUnit**, y flujos críticos end-to-end con **Playwright** (Page Object Model).
 - ⚡ **Automatización y aceleración con IA:** Autor del estándar de generación de pruebas asistidas por agentes del equipo y automatizaciones del ciclo de desarrollo (control de calidad, refactorizaciones y MCP).
+
+---
+
+### 📈 Métricas de Impacto en Producción
+
+<div align="center">
+
+| 💼 Experiencia | 🚀 Producción | 🏢 Escala |
+| :---: | :---: | :---: |
+| **3 Años**<br/><sub>Sistemas en producción</sub> | **+2.000 Commits**<br/><sub>Monorepos empresariales</sub> | **100+ Empresas**<br/><sub>Clientes en LATAM</sub> |
+
+| 🗄️ Base de Datos | 🧪 Calidad & Testing | ⚙️ Arquitectura |
+| :---: | :---: | :---: |
+| **1.374 Tablas**<br/><sub>Modelo relacional MySQL</sub> | **+200 Suites**<br/><sub>Behat, PHPUnit, Playwright</sub> | **DDD / Hexagonal**<br/><sub>Eventos & Outbox</sub> |
+
+</div>
 
 ---
 
@@ -85,22 +94,6 @@ Desarrollador **Full-Stack** con **3 años de experiencia** construyendo y mante
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
   <img src="https://img.shields.io/badge/MCP_%26_AI_Agents-5e6ad2?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP & AI Agents" />
 </p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rafarars&background=0F1011&border=23252A&stroke=23252A&ring=5E6AD2&fire=828FFF&currStreakNum=F7F8F8&sideNums=F7F8F8&currStreakLabel=828FFF&sideLabels=8A8F98&dates=8A8F98" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafarars&show_icons=true&bg_color=0f1011&title_color=828fff&text_color=f7f8f8&icon_color=5e6ad2&border_color=23252a&rank_icon=github" alt="GitHub Stats" height="195" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafarars&layout=compact&bg_color=0f1011&title_color=828fff&text_color=f7f8f8&border_color=23252a" alt="Top Languages" height="195" />
-</div>
 
 ---
 
